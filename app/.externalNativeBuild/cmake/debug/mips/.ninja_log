@@ -1,0 +1,22 @@
+# ninja log v5
+0	112	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	a216fca1d105db94
+112	207	0	../obj/mips/libnative-lib.so	6df4b8217a5077da
+1	147	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	97ff06e2851997f6
+147	223	0	../obj/mips/libnative-lib.so	fe2756d292db1d10
+2	47	0	CMakeFiles/native-lib.dir/src/main/cpp/test.cpp.o	84fd5a0b4ded74d3
+47	128	0	../obj/mips/libnative-lib.so	7847f3a0fe02d8e5
+1	39	0	CMakeFiles/native-lib.dir/src/main/cpp/test.cpp.o	84fd5a0b4ded74d3
+1	135	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	97ff06e2851997f6
+135	210	0	../obj/mips/libnative-lib.so	7847f3a0fe02d8e5
+0	132	0	CMakeFiles/native-lib.dir/src/main/cpp/lxd.cpp.o	dafe0da50574f34e
+0	148	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	97ff06e2851997f6
+148	226	0	../obj/mips/libnative-lib.so	a9446d35d868cc23
+0	133	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	97ff06e2851997f6
+134	212	0	../obj/mips/libnative-lib.so	a9446d35d868cc23
+0	112	0	CMakeFiles/native-lib.dir/src/main/cpp/lxd.cpp.o	dafe0da50574f34e
+112	193	0	../obj/mips/libnative-lib.so	a9446d35d868cc23
+0	121	0	CMakeFiles/native-lib.dir/src/main/cpp/lxd.cpp.o	dafe0da50574f34e
+0	148	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	97ff06e2851997f6
+148	235	0	../obj/mips/libnative-lib.so	a9446d35d868cc23
+0	146	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	97ff06e2851997f6
+146	234	0	../obj/mips/libnative-lib.so	a9446d35d868cc23

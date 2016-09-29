@@ -1,0 +1,22 @@
+# ninja log v5
+0	94	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	38bfb59ae5e098a8
+94	159	0	../obj/x86/libnative-lib.so	abb8d0853f6feca6
+1	117	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	28eb350f0e4c4f64
+117	169	0	../obj/x86/libnative-lib.so	23aeb85a4e62c8ac
+0	32	0	CMakeFiles/native-lib.dir/src/main/cpp/test.cpp.o	b2143fbaaa79b253
+32	84	0	../obj/x86/libnative-lib.so	ad3dc75a51a95e27
+0	27	0	CMakeFiles/native-lib.dir/src/main/cpp/test.cpp.o	b2143fbaaa79b253
+0	118	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	28eb350f0e4c4f64
+118	169	0	../obj/x86/libnative-lib.so	ad3dc75a51a95e27
+1	109	0	CMakeFiles/native-lib.dir/src/main/cpp/lxd.cpp.o	4339ad8a76fd6648
+1	128	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	28eb350f0e4c4f64
+128	184	0	../obj/x86/libnative-lib.so	37c4f0f71cd50c84
+1	120	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	28eb350f0e4c4f64
+120	175	0	../obj/x86/libnative-lib.so	37c4f0f71cd50c84
+0	95	0	CMakeFiles/native-lib.dir/src/main/cpp/lxd.cpp.o	4339ad8a76fd6648
+95	148	0	../obj/x86/libnative-lib.so	37c4f0f71cd50c84
+1	97	0	CMakeFiles/native-lib.dir/src/main/cpp/lxd.cpp.o	4339ad8a76fd6648
+1	122	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	28eb350f0e4c4f64
+122	177	0	../obj/x86/libnative-lib.so	37c4f0f71cd50c84
+1	120	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	28eb350f0e4c4f64
+120	173	0	../obj/x86/libnative-lib.so	37c4f0f71cd50c84
